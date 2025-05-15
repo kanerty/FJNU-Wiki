@@ -29,4 +29,7 @@ nav:
   - 关于: about.md
 extra_css:
   - stylesheets/extra.css
+extra:
+  include:
+    - CNAME
 copyright: 'Copyright &copy; 2025 FJNU-Wiki. All Rights Reserved.'
