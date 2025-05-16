@@ -1,4 +1,23 @@
 # 学校信息
+## 学校全名和简称
+福建师范大学，Fujian Normal University(FJNU)。
+
+## 学校校徽
+![福建师范大学LOGO](https://www.fjnu.edu.cn/_upload/tpl/07/ed/2029/template2029/images/logo.jpg)
+
+[福建师范大学透明LOGO](https://zsb.fjnu.edu.cn/_upload/tpl/0a/9b/2715/template2715/images/logo.png)
+
+## 学校校训
+知明行笃，立诚致广（即旗山校区四栋主教学楼的名称）  
+——至于为什么不叫行笃楼而叫笃行楼，据说是因为行笃比较拗口。
+
+## 学校校风
+重教、勤学、求实、创新  
+——旗山校区的理工楼群大草坪上有这句话哦。
+
+## 学校官方网站
+[学校官网](https://www.fjnu.edu.cn) [教务处](https://jwc.fjnu.edu.cn) [教务管理系统](https://jwglxt.fjnu.edu.cn) [招生与考试办公室](https://zsb.fjnu.edu.cn/main.htm)
+
 ## 学校地址
 - 旗山校区：福建省福州市闽侯县上街镇乌龙江中大道8号
 - 仓山校区：福建省福州市仓山区上三路8号
@@ -30,3 +49,8 @@
 - 福建停水停电大学：还好只是暑假停电 ，停水倒是一两个月一次。
 - 浮舰湿帆大学：指雨季天天下雨，甚至可以在学校里开船。（建议准备烘干机或除湿袋）
 - 东南女子职业教育学院：指仓山校区以女生为主且师大为师范院校。
+
+## 学校校歌
+《福建师大校歌》 夏冬 常祁 词, 章绍同 曲
+
+![福建师大校歌](https://www.fjnu.edu.cn/_upload/article/images/b6/06/1475029145c190a13d3df472875f/84b33769-8bdb-4e11-9bdf-ae7ec130f74a.jpg)

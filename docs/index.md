@@ -1,10 +1,9 @@
 # 福建师范大学指南
+![福建师范大学贴吧ICON](https://fjnu-oss.nekoark.com/%E8%B4%B4%E5%90%A7%E5%9B%BE%E6%A0%87.jpg?x-oss-process=style/200webp)
 
-## 介绍
+福建师范大学指南是由[百度贴吧【福建师范大学】吧](https://tieba.baidu.com/f?kw=%E7%A6%8F%E5%BB%BA%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6)全体成员共同完成的Wiki，旨在成为各位新老同学了解学校各方面信息的窗口。
 
-**TODO**
-
-## 前言（2025版）
+## 前言
 
 &emsp;&emsp;我相信这会是一段新故事的开始。**TODO**
 
