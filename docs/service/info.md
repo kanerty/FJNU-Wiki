@@ -22,7 +22,18 @@
 
 ## 学校官方网站
 
-[学校官网](https://www.fjnu.edu.cn) [教务处](https://jwc.fjnu.edu.cn) [教务管理系统](https://jwglxt.fjnu.edu.cn) [招生与考试办公室](https://zsb.fjnu.edu.cn/main.htm)
+| 访问链接 | 作用 |
+| --- | --- |
+| [学校官网](https://www.fjnu.edu.cn) | 校园对外门户 |
+| [教务处](https://jwc.fjnu.edu.cn) | 教务处通知发布 |
+| [研究生院](https://yjsy.fjnu.edu.cn) | 研究生事务通知发布 |
+| [体育科学学院公告](https://tky.fjnu.edu.cn/tzjk/list.htm) | 体测安排公告 |
+| [公共外语教研部规章制度](https://cfl.fjnu.edu.cn/xxfb/list.htm) | 《大学英语》教学方案公告 |
+| [招生与考试办公室](https://zsb.fjnu.edu.cn/main.htm) | 招生计划、历年录取分数、录取查询等 |
+| [教务管理系统](https://jwglxt.fjnu.edu.cn) | 本科生教务处理、课程表查询、成绩查询等 |
+| [研究生信息管理系统](https://gedu.fjnu.edu.cn) | 研究生事务处理和管理 |
+| [智慧学工一站式平台](https://stuportal.fjnu.edu.cn) | 综合测评互评及查询、奖学金评议等 |
+| [实验室安全教育管理平台](https://syaqjy.fjnu.edu.cn/fjnu_ksxt) | 新生实验室考试 |
 
 ## 学校地址
 
