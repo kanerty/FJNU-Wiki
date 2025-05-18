@@ -6,7 +6,14 @@
     text-align: right;
 }
 
+/* 历史遗留产物，可忽略 */
 del {
   text-decoration: line-through;
   color: #999;
+}
+
+/* 修复网站字体在移动端设备浏览时可能无法正常加粗 */
+h3, h4, strong {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-weight: bold !important;
 }
