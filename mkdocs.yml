@@ -6,6 +6,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.footer
+    - navigation.instant
+    - search.highlight
   language: zh
   palette:
     - scheme: default
@@ -35,7 +37,7 @@ nav:
     - 课程相关: study/choose.md
     - 学业发展: study/improve.md
   - 学院详情:
-    - 计算机与网络空间安全学院: college/computer_and_cyper_security.md
+    - 计算机与网络空间安全学院: college/computer_and_cyber_security.md
   - 校园服务: 
     - 学校信息: service/info.md
     - 校园设施: service/facilities.md

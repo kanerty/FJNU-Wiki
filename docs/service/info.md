@@ -78,3 +78,7 @@
 《福建师大校歌》 夏冬 常祁 词, 章绍同 曲
 
 ![福建师大校歌](https://www.fjnu.edu.cn/_upload/article/images/b6/06/1475029145c190a13d3df472875f/84b33769-8bdb-4e11-9bdf-ae7ec130f74a.jpg)
+
+## 历年高考录取分数
+
+招生办提供了查询渠道，[点击此处进入](https://zsb.fjnu.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/9.rst?_p=YXM9MTImdD0xNTYzJnA9MSZtPU4m&mongo=false)。
