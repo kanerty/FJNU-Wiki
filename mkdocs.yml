@@ -53,4 +53,6 @@ extra_css:
 extra:
   include:
     - CNAME
+markdown_extensions:
+  - pymdownx.tilde
 copyright: 'Copyright &copy; 2025 FJNU-Wiki. All Rights Reserved.'
