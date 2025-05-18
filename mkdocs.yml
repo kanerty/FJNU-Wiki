@@ -34,6 +34,8 @@ nav:
     - 考试与成绩、体测与保健班: study/exam.md
     - 课程相关: study/choose.md
     - 学业发展: study/improve.md
+  - 学院详情:
+    - 计算机与网络空间安全学院: college/computer_and_cyper_security.md
   - 校园服务: 
     - 学校信息: service/info.md
     - 校园设施: service/facilities.md
