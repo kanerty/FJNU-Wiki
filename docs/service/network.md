@@ -55,7 +55,7 @@
 部分校内网站（如实验室安全教育考试）限制了只有使用校园网才能访问，但同样有替代方法可用。以下是一些参考方案：
 
 - 向他人借用校园网账号进行访问。
-- 使用 笃行楼机房（[笃行楼中尾号为 16-19 的教室](../new/safari.md#duxing-building-map){:target="_blank"}）/图书馆机房 进行访问。
+- 使用 笃行楼机房（[笃行楼中2楼及以上的、尾号为 18-21 的教室](../new/safari.md#duxing-building-map){:target="_blank"}）/图书馆机房 进行访问。
 - 连接名为 `webportal.fjnu.edu.cn` 的 WiFi，在要求输入账号密码时直接返回/关闭页面（部分手机型号有 WiFi 不可用时自动切换为流量上网的功能，所以在连接 WiFi 时请手动关闭数据网络）。大部分校内网站都在本 WiFi 的访问白名单中，无需进行校园网登录即可访问。
 - 使用 [福建师范大学VPN服务](https://net.fjnu.edu.cn/43/d4/c5318a82900/page.htm){:target="_blank"}，本方法可能仅适用于教职工和研究生。
 
@@ -71,7 +71,7 @@ eduroam 所支持的 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=
 
 #### 连接 eduroam WiFi
 
-登录时身份设置为 `学号@student.fjnu.edu.cn` ，密码设置为 `福Star APP 的登录密码` ，阶段二身份和 CA 证书选择无或不验证。点击连接，稍作等待即可上网。
+登录时身份设置为 `学号@fjnu.edu.cn` ，密码设置为 `福Star APP 的登录密码` ，阶段二身份和 CA 证书选择无或不验证。点击连接，稍作等待即可上网。
 
 #### 设备限制及速率
 
