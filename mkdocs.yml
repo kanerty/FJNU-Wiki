@@ -59,4 +59,5 @@ extra:
     - CNAME
 markdown_extensions:
   - pymdownx.tilde
+  - attr_list
 copyright: 'Copyright &copy; 2025 FJNU-Wiki. All Rights Reserved.'

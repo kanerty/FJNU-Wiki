@@ -1,6 +1,6 @@
 # 入学准备
 
-## 电脑选购建议
+## 电脑选购建议 {#computer-purchase}
 
 [参考链接](https://search.bilibili.com/all?keyword=%E7%94%B5%E8%84%91%E6%8E%A8%E8%8D%90)
 
@@ -14,11 +14,11 @@
 
 2025年补充：最近购买笔记本电脑有国家补贴，还是挺实惠的。四改六宿舍的桌子没法放下24寸的显示器（比空间稍大一点），标准四人间/标准六人间放下27寸的显示器后依然绰绰有余。
 
-## 证件照规格要求
+## 证件照规格要求 {#id-photo}
 
 入学要一寸证件照（多准备一点），建议保存电子原件，这样以后要也可以自己拿去洗，红、蓝、白底最好都准备几张。
 
-## 银行卡激活注意事项
+## 银行卡激活注意事项 {#bankcard-activation}
 
 银行卡由学校统一办理，有学校专属卡面，随录取通知书一同发放。若学生之前无建行的一类卡则默认为一类卡、否则为二类卡。（部分学生录取通知书内不会有银行卡，自行另外办理即可）
 
@@ -29,7 +29,7 @@
 - 未满18周岁的，如若需要开学前激活，需要带上户口本、监护人身份证、本人身份证，由父母陪同到银行办理开户手续，较为繁杂。
 - 学校银行卡默认密码：955330
 
-## 可能用到的APP
+## 可能用到的APP {#possible-apps}
 
 在学校生活，有一些常用的APP，此处作一些基本的介绍。
 
@@ -38,13 +38,13 @@
 | 福Star | [点击下载](https://sj.qq.com/appdetail/com.systoon.fushida) | 通行码、课程表、成绩查询、人脸录入等 |
 | 学习通 | [点击下载](https://sj.qq.com/appdetail/com.chaoxing.mobile) | 部分课程签到及网课、部分选修课程及网课、个性化培养周线上课程 |
 | U校园AI版 | [点击下载](https://sj.qq.com/appdetail/cn.unipus.cloud) | 《大学英语》课程使用 |
-| 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、校园跑使用 |
-| 易班 | [点击下载](https://www.yiban.cn/mobile/index.html) | 马工程系列课程，青马易战使用 |
+| 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、[校园跑](../study/exam.md#campus-running)使用 |
+| 易班 | [点击下载](https://www.yiban.cn/mobile/index.html) | 马工程系列课程，[青马易战](../study/choose.md#qingma-project)使用 |
 | WakeUp课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件，纯净无广告（可以用福Star替代，但是这个更好用） |
 | \*e福州 | [点击下载](https://sj.qq.com/appdetail/com.digitalchina.mobile.dfhfz1) | 地铁、公交刷码（可以用支付宝替代） |
 | \*DeepSeek | [点击下载](https://download.deepseek.com/app/) | 伟大，无需多言 |
 
-## 团员关系转接
+## 团员关系转接 {#league-member-transfer}
 
 注：线上智慧团建团组织关系转接需要开学后上交纸质材料后确认无误后 ，才予以转接。如果学校有强制要求在暑假内转出的，可以咨询本院辅导员，暂且转入本院的临时支部。然后请各位团员再仔细检查一下自己的团员档案是否存在问题。
 
