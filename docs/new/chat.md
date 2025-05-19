@@ -1,6 +1,6 @@
 # 联系方式
 
-## 校园110值班电话 {#campus-security-number}
+## 校园 110 值班电话 {#campus-security-number}
 
 - 旗山校区 0591-22867110
 - 仓山校区 0591-83465374
