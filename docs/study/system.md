@@ -12,7 +12,7 @@
 
 晚自习时间视学院、年级的规定而不同，笔者在此给出一份参考时间：6点半-9点。部分学院晚自习缺勤被抓到按旷课处理。
 
-@Xuuyuan补充：部分学院年级在晚自习期间安排高数小测、讲评等，实在是惨无人道。
+> @Xuuyuan备注：部分学院年级在晚自习期间安排高数小测、讲评等，实在是惨无人道。
 
 ## 师范/非师范的区别 {#teacher-training-differents}
 
@@ -36,7 +36,7 @@
 
 ## 辅修与二学位 {#minor-double-degree}
 
-学校不承认双学位。在校期间可以申请[辅修](https://jwc.fjnu.edu.cn/5c/d1/c9107a416977/page.htm)，现在学校还有开设[微专业](https://jwc.fjnu.edu.cn/57/9b/c9107a415643/page.htm)。但是这两者一般没有什么作用。
+学校不承认双学位。在校期间可以申请[辅修](https://jwc.fjnu.edu.cn/5c/d1/c9107a416977/page.htm){:target="_blank"}，现在学校还有开设[微专业](https://jwc.fjnu.edu.cn/57/9b/c9107a415643/page.htm){:target="_blank"}。但是这两者一般没有什么作用。
 
 ## 运动会 {#sports-meet}
 

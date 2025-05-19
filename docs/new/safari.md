@@ -22,18 +22,18 @@
 
 ## 旗山校区教学楼分布图 {#qishan-buildings-map}
 
-### 知明楼
+### 知明楼 {#zhiming-building-map}
 
 ![知明楼地图](https://fjnu-oss.nekoark.com/%E7%9F%A5%E6%98%8E%E6%A5%BC%E5%9C%B0%E5%9B%BE.jpg?x-oss-process=style/webp)
 
-### 笃行楼
+### 笃行楼 {#duxing-building-map}
 
 ![笃行楼地图](https://fjnu-oss.nekoark.com/%E7%AC%83%E8%A1%8C%E6%A5%BC%E5%9C%B0%E5%9B%BE.jpg?x-oss-process=style/webp)
 
-### 立诚楼
+### 立诚楼 {#licheng-building-map}
 
 ![立诚楼地图](https://fjnu-oss.nekoark.com/%E7%AB%8B%E8%AF%9A%E6%A5%BC%E5%9C%B0%E5%9B%BE.jpg?x-oss-process=style/webp)
 
-### 致广楼
+### 致广楼 {#zhiguang-building-map}
 
 ![致广楼地图](https://fjnu-oss.nekoark.com/%E8%87%B4%E5%B9%BF%E6%A5%BC%E5%9C%B0%E5%9B%BE.jpg?x-oss-process=style/webp)
