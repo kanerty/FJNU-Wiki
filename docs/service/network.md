@@ -63,7 +63,7 @@
 
 \*本方法仅需你是本校学生，无需购买校园网。
 
-福师大已于 2019 年成为了 eduroam 无线漫游服务的联盟学校之一，在所有 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004){:target="_blank"} 中的其它高校进行访问时，均可连接其它高校内名为 `eduroam` 的 WiFi 进行上网。
+福师大已于 2019 年成为了 eduroam 无线漫游服务的联盟学校之一，在所有 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004){:target="_blank"} 中的其它高校进行访问时，均可连接其它高校内名为 `eduroam` 的 WiFi 进行上网（当然，在福师大校内无法以本校学生身份通过 eduroam 进行连接）。
 
 #### 支持的学校
 
@@ -77,4 +77,5 @@ eduroam 所支持的 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=
 
 eduroam WiFi 对一个账号仅支持一台设备上网。多个设备上网时，先上网的设备会被踢出。
 
-受个人经验限制，笔者仅在 武汉大学 (WHU) 尝试过对 eduroam WiFi 进行连接。实测在校内开放场地的无线连接速率在 5 Mbps 左右（≈ H+ ，即 3.5G 网络），速度实在一般。
+!!! tip "个人经验"
+    笔者仅在 武汉大学 (WHU) 尝试过对 eduroam WiFi 进行连接。实测在校内开放场地的无线连接速率在 5 Mbps 左右（≈ H+ ，即 3.5G 网络），速度实在一般。
