@@ -25,32 +25,34 @@ theme:
 nav:
   - 主页: index.md
   - 从高中到大学: transition.md
-  - 生活指南: 
-    - 餐饮: live/eat.md
-    - 住宿: live/living.md
-    - 交通: live/traffic.md
-    - 医疗: live/hospital.md
-    - 健康实践: live/health.md
-  - 学习学业: 
-    - 学习制度: study/system.md
-    - 考试与成绩、体测与保健班: study/exam.md
-    - 课程相关: study/choose.md
-    - 学业发展: study/improve.md
-  - 学院详情:
-    - 计算机与网络空间安全学院: college/computer_and_cyber_security.md
-  - 校园服务: 
-    - 学校信息: service/info.md
-    - 校园设施: service/facilities.md
-    - 行政服务和费用缴纳: service/services.md
-    - 网络服务: service/network.md
-    - 学生组织和学生工作: service/group.md
   - 新生准备: 
     - 入学准备: new/before.md
     - 防诈骗指南: new/anti-fraud.md
     - 军训指南: new/military_training.md
     - 校园导航: new/safari.md
     - 联系方式: new/chat.md
+  - 生活指南: 
+    - 餐饮: live/eat.md
+    - 住宿: live/living.md
+    - 交通: live/traffic.md
+    - 医疗: live/hospital.md
+    - 校园活动: live/event.md
+    - 健康实践: live/health.md
+  - 学习学业: 
+    - 学习制度: study/system.md
+    - 考试与成绩: study/exam.md
+    - 体测、校园跑与保健班: study/physical-fitness.md
+    - 课程相关: study/choose.md
+    - 学业发展: study/improve.md
+  - 校园服务: 
+    - 学校信息: service/info.md
+    - 校园设施: service/facilities.md
+    - 行政服务和费用缴纳: service/services.md
+    - 网络服务: service/network.md
+    - 学生组织和学生工作: service/group.md
   - 复习资料: repo.md
+  - 学院详情:
+    - 计算机与网络空间安全学院: college/computer_and_cyber_security.md
   - 关于: about.md
 extra_css:
   - stylesheets/extra.css

@@ -38,7 +38,7 @@
 | 福 Star | [点击下载](https://sj.qq.com/appdetail/com.systoon.fushida) | 通行码、课程表、成绩查询、人脸录入等 |
 | 学习通 | [点击下载](https://sj.qq.com/appdetail/com.chaoxing.mobile) | 部分课程签到及网课、部分选修课程及网课、个性化培养周线上课程 |
 | U 校园 AI 版 | [点击下载](https://sj.qq.com/appdetail/cn.unipus.cloud) | 《大学英语》课程使用 |
-| 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、[校园跑](../study/exam.md#campus-running)使用 |
+| 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、[校园跑](../study/physical-fitness.md#campus-running)使用 |
 | 易班 | [点击下载](https://www.yiban.cn/mobile/index.html) | 马工程系列课程，[青马易战](../study/choose.md#qingma-project)使用 |
 | WakeUp 课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件，纯净无广告（可以用福 Star 替代，但是这个更好用） |
 | \*e 福州 | [点击下载](https://sj.qq.com/appdetail/com.digitalchina.mobile.dfhfz1) | 地铁、公交刷码（可以用支付宝替代） |
