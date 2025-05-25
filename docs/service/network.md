@@ -61,13 +61,23 @@
 
 ### 在外校通过校园网上网
 
-\*本方法仅需你是本校学生，无需购买校园网。
+\*本方法仅需你是本校学生即可使用，无需购买校园网。
 
-福师大已于 2019 年成为了 eduroam 无线漫游服务的联盟学校之一，在所有 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004){:target="_blank"} 中的其它高校进行访问时，均可连接其它高校内名为 `eduroam` 的 WiFi 进行上网（当然，在福师大校内无法以本校学生身份通过 eduroam 进行连接）。
+福师大已于 2019 年正式成为了 eduroam 无线漫游服务的联盟学校之一，在所有 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004){:target="_blank"} 中的其它高校/科研单位进行访问时，均可连接其它高校/科研单位内名为 `eduroam` 的 WiFi 进行上网（当然，在福师大校内无法以本校学生身份通过 eduroam 进行连接）。
 
-#### 支持的学校
+#### eduroam 是什么？
 
-eduroam 所支持的 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004){:target="_blank"}。
+eduroam(education roaming) 是专为科研和教育机构开发的安全的环球跨域无线漫游认证服务，目前已覆盖全球一百余个国家和地区的超过 6000 家科研机构和教育机构。加入 eduroam 联盟的机构成员可使用本机构提供的合法账号，在全球已加入 eduroam 联盟的机构内实现无线网络访问的无障碍漫游。
+
+eduroam CN 中国顶级节点于 2014 年引入中国并投入运行，由中国科学院计算机网络信息中心负责运行与管理。首批已加入并运行 eduroam CN 联盟单位包括中国科学院计算机网络信息中心、中国科学院高能物理研究所和北京大学。
+
+#### 支持 eduroam 的高校/科研单位
+
+中国大陆的学校：点击查看 [成员列表](https://www.eduroam.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004){:target="_blank"} 。
+
+中国大陆的科研机构：点击查看 [成员列表](http://eduroam.cstnet.cn/mem/index.jhtml#tabs1){:target="_blank"} 。
+
+全球：点击查看 [成员列表地图](https://eduroam.org/where/){:target="_blank"} ，在地图上点击相应国家或地区即可访问分站点，然后即可在相应国家或地区的分站点内查询支持 eduroam 的高校/科研单位。
 
 #### 连接 eduroam WiFi
 
