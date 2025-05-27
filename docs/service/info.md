@@ -4,11 +4,17 @@
 
 福建师范大学，Fujian Normal University(FJNU)。
 
-## 学校校徽 {#school-logo}
+## 学校图样 {#school-logo}
 
-![福建师范大学 LOGO](https://www.fjnu.edu.cn/_upload/tpl/07/ed/2029/template2029/images/logo.jpg)
+### 校名标准图样
 
-[福建师范大学透明 LOGO](https://zsb.fjnu.edu.cn/_upload/tpl/0a/9b/2715/template2715/images/logo.png)
+![福建师范大学 校名标准图样](https://office.fjnu.edu.cn/_upload/article/images/cb/73/81451cd54d83b6e449aa69a04cb2/2ceddd4a-590a-4008-a1c5-e8188b1ad8aa.jpg)
+
+### 校标标准图样
+
+![福建师范大学 校标标准图样](https://office.fjnu.edu.cn/_upload/article/images/e8/44/3115bea94bdbb0079b61c89d52db/d2b891e9-a0f1-41f9-bbba-856599ee67e7.jpg)
+
+[福建师范大学 校标图样（透明）](https://zsb.fjnu.edu.cn/_upload/tpl/0a/9b/2715/template2715/images/logo.png)
 
 ## 学校校训 {#school-motto}
 
@@ -37,7 +43,7 @@
 
 ## 学校地址 {#school-address}
 
-- 旗山校区：福建省福州市闽侯县上街镇乌龙江中大道 8 号
+- 旗山校区：福建省福州市闽侯县上街镇乌龙江中大道 18 号
 - 仓山校区：福建省福州市仓山区上三路 8 号
 - 河西校区（协和学院）：福建省福州市闽侯县上街镇学府南路 68 号
 
