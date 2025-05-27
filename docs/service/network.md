@@ -1,4 +1,4 @@
-# 网络服务
+# 网络及邮件服务
 
 ## 校园卡（电话流量卡） {#campus-sim-card}
 
@@ -105,20 +105,20 @@ eduroam WiFi 对一个账号仅支持一台设备上网。多个设备上网时�
 
 ### 适用人员
 
-校园 VPN 服务对研究生、教职工为默认开启，本科生则需要自行启用。启用方法如下：
+校园 WebVPN 服务对研究生、教职工为默认开启，本科生则需要自行启用；SSLVPN 服务对教职工默认开启，本科生、研究生则需要自行启用。启用方法如下：
 
 1. 点击进入 [福建师范大学校园综合服务平台](https://school.app.fjnu.edu.cn/inte-service-platform-hall-schoolweb/topbar/person) 。
 2. 登录后在左侧菜单栏选择“其他服务”。
 3. 自助开通“sslvpn 服务”、“邮箱服务”及“webvpn 服务”。
 
-### 使用 WebVPN 访问学校内网
+### 使用 WebVPN 访问学校内网（WebVPN）
 
 本方法仅适用于访问图书馆资源、财务系统（教职工）、化学品管理系统（教职工）、大仪共享系统（教职工）、中国知网、万方数据库、部分期刊资源时使用。对于其它的使用场景，请使用 aTrustVPN。
 
 1. 访问 [福建师范大学 WebVPN 入口](https://vpn3.fjnu.edu.cn/auth/login) ，登录账号。
 2. 选择需要访问的网站（仅能通过该页面进行选择）。
 
-### 使用aTrustVPN 访问学校内网
+### 使用 aTrustVPN 访问学校内网（SSLVPN）
 
 #### Windows、macOS、UOS、麒麟电脑
 
@@ -135,3 +135,27 @@ eduroam WiFi 对一个账号仅支持一台设备上网。多个设备上网时�
 2. 安装客户端后打开，输入服务器地址 `https://vpn.fjnu.edu.cn` ，选择“连接”，进行登录。
 3. 完成登录后即可正常访问校内网站及相关资源。
 4. 客户端内列出了部分允许访问的网站，可以进行参考。此处提供一份仅校内 IP 允许访问的公告，可以用于验证 VPN 是否连接成功：[公告地址](https://tky.fjnu.edu.cn/18/de/c10998a399582/page.psp) 。
+
+## 邮件服务 {#email}
+
+我校面向教职工开放 `xxx@fjnu.edu.cn` 的校园邮箱，需要另行申请。
+
+我校面向本科生、研究生开放 `学号@student.fjnu.edu.cn` 的校园邮箱使用权限。
+
+[福建师范大学学生邮箱邮件系统](http://student.fjnu.edu.cn/)
+
+### 注册校园邮箱
+
+1. 打开 福Star APP，依次点击【主页】->【全部】->【网信服务】->【邮箱服务】。
+2. 点击【邮箱注册】，按照步骤进行注册。
+3. 注册完成后，在 [福建师范大学学生邮箱邮件系统](http://student.fjnu.edu.cn/) 登录账号即可，账号为 `学号` ，密码为注册时设置的密码。
+
+### 校园邮箱的用处
+
+作为 edu.cn 域下的邮箱，校园邮箱可以用于通过部分软件的教育认证/学生认证，从而获得一定程度的优惠。以下提供部分可用的认证优惠，更新于 2025 年 5 月，之后可能有变动。
+
+1. [GitHub Education](https://education.github.com/) ：获得 GitHub Copilot 的免费订阅权限（需要学信网翻译件进行验证）。
+2. [JetBrains Educational Pack](https://www.jetbrains.com/academy/student-pack/) ：在学习期间免费使用所有 JetBrains IDE（如 PyCharm）。
+3. [Google AI Pro](https://one.google.com/plans) ：享受 15 个月的 2TB 云端存储空间、Google Gemini Pro 权限（需要有 Visa/Mastercard 银行卡进行验证）。
+4. [Navicat 学术伙伴计划](https://www.navicat.com.cn/sponsorship/education/student)：享受 1 年的 Navicat Premium。
+5. [滴答清单 教育优惠](https://www.dida365.com/education)：享受 75 折购买高级会员。
