@@ -1,5 +1,7 @@
 site_name: 福建师范大学Wiki
 site_url: https://fjnu.nekoark.com/
+repo_url: https://github.com/Xuuyuan/FJNU-Wiki
+edit_uri: edit/main/docs/
 theme:
   name: material
   features:
@@ -8,6 +10,8 @@ theme:
     - navigation.footer
     - navigation.instant
     - search.highlight
+    - content.action.edit
+    - content.action.view
   language: zh
   palette:
     - scheme: default
