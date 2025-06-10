@@ -88,3 +88,7 @@
 ## 历年高考录取分数 {#admission-scores}
 
 招生办提供了查询渠道，[点击此处进入](https://zsb.fjnu.edu.cn/_web/_apps/commonquery/commonquery/api/queryMatch/9.rst?_p=YXM9MTImdD0xNTYzJnA9MSZtPU4m&mongo=false)。
+
+## 学校收费标准 {#school-fee}
+
+2025-2026 学年的收费项目与标准暂未发布，可以以 2024-2025 学年的收费标准作为参考：[《福建师范大学关于公布2024—2025学年各类学生收费项目与标准的通知》](https://cwc.fjnu.edu.cn/07/06/c15751a395014/page.htm) 。
