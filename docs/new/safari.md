@@ -1,6 +1,11 @@
 # 校园导航
 
+see also:
+
+- [校园设施](../service/facilities.md)
+
 ## 校园地图 {#campus-map}
+
 
 ### 旗山校区（含河西校区）
 
