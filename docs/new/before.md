@@ -47,6 +47,7 @@
 | 步道乐跑 | [点击下载](https://sj.qq.com/appdetail/com.lptiyu.tanke) | 《大学体育》课程、[校园跑](../study/physical-fitness.md#campus-running)使用 |
 | 易班 | [点击下载](https://www.yiban.cn/mobile/index.html) | 马工程系列课程，[青马易战](../study/choose.md#qingma-project)使用 |
 | WakeUp 课程表 | [点击下载](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) | 课程表软件，纯净无广告（可以用福 Star 替代，但是这个更好用） |
+| 小依 | [点击下载](https://www.qtx2015.com/) | 学校统一配置的洗衣机使用的 APP，不过可以[自行购买其它洗衣机](../live/living.md#dorm-facilities) |
 | \*e 福州 | [点击下载](https://sj.qq.com/appdetail/com.digitalchina.mobile.dfhfz1) | 地铁、公交刷码（可以用支付宝替代） |
 | \*DeepSeek | [点击下载](https://download.deepseek.com/app/) | 伟大，无需多言 |
 

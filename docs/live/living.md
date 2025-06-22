@@ -24,19 +24,14 @@
     ![李苑 9-11 号楼宿舍图片2](https://fjnu-oss.nekoark.com/dorm-li9-11-2.jpg?x-oss-process=style/0zwebp)
 
     [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/66cdc305000000001d0184e0?source=webshare&xhsshare=pc_web&xsec_token=ABK0CMq6uiwJOREz4DVdVnWmC1EG83CQarvoMGoCWrWhc=&xsec_source=pc_share)
-- 双人间：青年公寓（双人间）
-??? warning "查看图片"
-    ![青年公寓宿舍图片](https://fjnu-oss.nekoark.com/dorm-qn2.jpg?x-oss-process=style/0zwebp)
-
-    [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/64f3ef30000000001f0372fd?source=webshare&xhsshare=pc_web&xsec_token=ABPgKp1JTUlJH6bVGUHOCRKTaAqzxijhed5yU6lvv-m6s=&xsec_source=pc_share)
 
 大一新生大部分住在四改六人间，部分学院可能在六人间。  
 大二时搬至其它宿舍改为四人间，部分学院可能搬到/依然在六人间。  
 硕士研究生同理，区别是研一新生是五个人住四改六人间。  
-博士研究生住在青年公寓，双人间。
+博士研究生则是两人住四人间。
 
-住在兰苑（南区）的学院：计网、体科、音乐、美术、社历、传播学院  
-（特殊地，计网 2023 级居住在桃苑 9-10 号楼）
+住在兰苑（南区）的学院：计算机与网络空间安全学院（软件学院）、体育科学学院、音乐学院、美术学院、社会历史学院、传播学院  
+（特殊地，计网 2023 级居住在桃苑 9-10 号楼，计网 2024 级分散地住在桂苑、桃苑、兰苑）
 
 #### 仓山校区
 
@@ -110,7 +105,7 @@
     宿舍现行的水电费收费标准为：水费 2.6 元/吨、电费 0.533 元/度。  
     学生享受 2 吨/人/月 的水费减免、5 度/人/月 的电费减免，相关收费会在缴费前依照宿舍实住人数直接免除。
 
-    若对水电费有疑惑，可以在工作时间内前往花香园食堂 3 楼后勤服务大厅水电科查询宿舍每天的用水、用电情况。
+    若对水电费有疑惑，可以在工作时间内前往花香园食堂 3 楼后勤服务大厅能源科查询宿舍每天的用水、用电情况。
 
 ### 更换床位 {#bed-change}
 
