@@ -90,10 +90,29 @@
 
 以下方法自行选择即可。
 
-1. ~~[油猴插件](https://greasyfork.org/zh-CN/scripts/493356-%E5%85%A8%E7%BD%91%E6%9C%80%E6%96%B0%E6%9C%89%E6%95%88-%E5%AE%89%E5%85%A8%E5%BE%AE%E4%BC%B4%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81%E8%87%AA%E5%8A%A8%E7%AD%94%E9%A2%98-2025%E6%9C%80%E6%96%B0%E7%89%88-%E6%94%AF%E6%8C%81%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB-%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7)~~ 该插件似乎已经被删除。
-2. [安全微伴期末考试题库](https://github.com/pooneyy/WeibanQuestionsBank/blob/main/weibanQuestionBank.md)
-3. 在课程页面，点击 `F12` 打开开发者控制台，选择上方的 `Console/控制台` 标签，将 `top` 切换至当前页面，然后在底下输入 `finishWxCourse();` 后即可立即完成当前课程（PS：若完成速度过快可能触发风控，建议在进入课程页面后约 5 秒后再执行）。
-4. 将第 3 种方法写为 JavaScript 脚本，循环每 10 秒执行一次 `finishWxCourse();` 方法。进入课程页面后手动完成图形验证码即可。
+1. [安全微伴自动刷课脚本](https://github.com/hangone/WeBan) 该工具未经笔者测试，但功能应该较为完善。请自行考虑是否选用。
+2. [安全微伴期末考试题库](https://github.com/pooneyy/WeibanQuestionsBank/blob/main/weibanQuestionBank.md) ，本题库可用于完成最终的期末考试。进入页面后，点按 `Ctrl + F` 即可进行搜索。
+3. 在课程页面，点击 `F12` 打开开发者控制台，选择上方的 `Console/控制台` 标签，将 `top` 切换至当前页面（名称为 A 开头，域名为 `mcwk.mycourse.cn` 的页面），然后在底下输入 `finishWxCourse();` 后即可立即完成当前课程（PS：若完成速度过快可能触发风控，建议在进入课程页面后约 5 秒后再执行）。
+4. 将第 3 种方法写为 JavaScript 脚本，循环每 10 秒执行一次 `finishWxCourse();` 方法。进入每节课程页面后会自动调用完成方法，由本人手动完成图形验证码即可。此处提供一份 [油猴](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd) 脚本，在油猴中选择【添加新脚本】后将以下代码粘贴后保存即可使用。
+
+```javascript
+// ==UserScript==
+// @name         安全微课自动完成
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  每隔 10 秒自动执行 finishWxCourse() 函数
+// @author       You
+// @match        *://mcwk.mycourse.cn/*
+// @grant        none
+// @run-at       document-idle
+// ==/UserScript==
+(function() {
+    'use strict';
+    setInterval(() => {
+        finishWxCourse();
+    }, 10000);
+})();
+```
 
 ## 新生入学考试 {#freshman-exam}
 
