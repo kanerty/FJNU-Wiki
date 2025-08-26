@@ -71,4 +71,12 @@ markdown_extensions:
   - pymdownx.details
   - attr_list
   - admonition
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enabled: !ENV [CI, false]
+  - git-committers:
+      repository: Xuuyuan/FJNU-Wiki
+      branch: main
+      enabled: !ENV [CI, false]
 copyright: 'Copyright &copy; 2025 FJNU-Wiki. All Rights Reserved.'
