@@ -12,6 +12,15 @@ del {
   color: #999;
 }
 
+/* 隐藏右上角的仓库按钮 */
+.md-source {
+    display: none;
+}
+
+.md-header__source {
+    display: none;
+}
+
 /* 修复网站字体在移动端设备浏览时可能无法正常加粗 */
 strong {
     font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;

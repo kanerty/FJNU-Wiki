@@ -9,6 +9,7 @@ theme:
     - navigation.top
     - navigation.footer
     - navigation.instant
+    - navigation.instant.progress
     - search.highlight
     - content.action.edit
     - content.action.view
@@ -29,7 +30,7 @@ theme:
 nav:
   - 主页: index.md
   - 从高中到大学: transition.md
-  - 新生准备: 
+  - 新生手册: 
     - 入学准备: new/before.md
     - 防诈骗指南: new/anti-fraud.md
     - 军训指南: new/military_training.md
@@ -63,7 +64,7 @@ nav:
   - 社团:
     - 社团迎新群汇总: club/index.md
     - 网络与信息安全协会: club/NISA.md
-  - 关于: about.md
+  - 关于Wiki: about.md
 extra_css:
   - stylesheets/extra.css
 extra:
@@ -75,6 +76,7 @@ markdown_extensions:
   - attr_list
   - admonition
 plugins:
+  - search
   - git-revision-date-localized:
       enable_creation_date: true
       enabled: !ENV [CI, false]
@@ -82,4 +84,6 @@ plugins:
       repository: Xuuyuan/FJNU-Wiki
       branch: main
       enabled: !ENV [CI, false]
-copyright: 'Copyright &copy; 2025 FJNU-Wiki. All Rights Reserved.'
+      exclude_committers:
+        - web-flow
+copyright: 'Copyright &copy; 2025 FJNU-Wiki.'
