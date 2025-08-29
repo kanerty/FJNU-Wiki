@@ -6,7 +6,7 @@ see also:
 
 ## 校园地图 {#campus-map}
 
-### 旗山校区（含河西校区）
+### 旗山校区（含河西校区） {#cm-qishan}
 
 注意：本份平面图修订于 2017 年，2025 年相较于此已发生较大变化。主要新增楼栋如下：
 
@@ -20,7 +20,7 @@ see also:
 
 ![旗山校区平面图](https://xyzh.fjnu.edu.cn/_upload/article/images/e0/ac/a66fbc2847ceaa9032b2b3d968a2/3d473eee-cee1-4a9d-a87d-3c7a74fbfc63.jpg)
 
-### 仓山校区
+### 仓山校区 {#cm-cangshan}
 
 ![仓山校区平面图](https://xq.fjnu.edu.cn/_upload/article/images/a9/ff/66ddf674470ca9868fb3dc64e388/4aff7dfc-0e22-4449-ae92-4a413e9cd68b.jpg)
 

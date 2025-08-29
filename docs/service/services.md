@@ -1,9 +1,5 @@
 # 行政服务和费用缴纳
 
-## 团员转团接收单位 {#league-transfer-receiver}
-
-共青团福建师范大学委员会。
-
 ## 校园卡办理与使用 {#student-id-card}
 
 **注意：这里说的校园卡是用于食堂消费或门禁的卡。[流量卡请点击此处](../service/network.md#campus-sim-card)**
