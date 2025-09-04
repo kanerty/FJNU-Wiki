@@ -20,7 +20,7 @@
 
 ### 校级组织 {#university-level-organization}
 
-需要同学们自行了解，面向大一新生只招干事。
+移步至此：[here](../organization/overview.md)
 
 ### 院两委 {#two-committees-of-court}
 
