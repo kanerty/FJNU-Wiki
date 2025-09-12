@@ -67,6 +67,7 @@ nav:
     - 机器人协会: club/RoboMaster.md
   - 学生组织:
     - 学生组织概览: organization/overview.md
+    - 校大学生科技创新与创业中心: organization/campus-wide/kc.md
   - 关于Wiki: about.md
 extra_css:
   - stylesheets/extra.css
@@ -78,6 +79,11 @@ markdown_extensions:
   - pymdownx.details
   - attr_list
   - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: false
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {}
 plugins:
   - search
   - git-revision-date-localized:

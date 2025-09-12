@@ -4,36 +4,36 @@
 
 ### 宿舍规格 {#dorm-types}
 
-#### 旗山校区
+=== "旗山校区"
 
-目前校区内宿舍主要分为三种规格：
+    目前校区内宿舍主要分为三种规格：
 
-- 四改六人间：桂苑 6-16 号楼（四改六人间，上床下桌桌桌+上床下床）
-??? warning "查看图片"
-    ![桂苑宿舍图片](https://fjnu-oss.nekoark.com/dorm-gui.jpg?x-oss-process=style/0zwebp)
+    - 四改六人间：桂苑 6-16 号楼、榕苑（四改六人间，上床下桌桌桌+上床下床）
+    ??? warning "查看图片"
+        ![桂苑宿舍图片](https://fjnu-oss.nekoark.com/dorm-gui.jpg?x-oss-process=style/0zwebp)
 
-    [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/669887950000000005005d4f?source=webshare&xhsshare=pc_web&xsec_token=ABnXUflw4o3HSwBnm3__tpgg0AvaprKJFKWkQVAJHLz6c=&xsec_source=pc_share)
-- 四人间：桂苑 1-5 号楼、桃苑、李苑 1-8 号楼、兰苑（四人间，上床下桌）
-??? warning "查看图片"
-    ![四人间宿舍图片](https://fjnu-oss.nekoark.com/dorm-4.jpg?x-oss-process=style/0zwebp)
+        [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/669887950000000005005d4f?source=webshare&xhsshare=pc_web&xsec_token=ABnXUflw4o3HSwBnm3__tpgg0AvaprKJFKWkQVAJHLz6c=&xsec_source=pc_share)
+    - 四人间：桂苑 1-5 号楼、桃苑、李苑 1-8 号楼、兰苑（四人间，上床下桌）
+    ??? warning "查看图片"
+        ![四人间宿舍图片](https://fjnu-oss.nekoark.com/dorm-4.jpg?x-oss-process=style/0zwebp)
 
-    [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/64a082fb000000001303eec5?source=webshare&xhsshare=pc_web&xsec_token=ABQ30spH9gbt1JDKMn42umjdj6JHKaMMjdu-QT6hGGCC0=&xsec_source=pc_share)
-- 六人间：李苑 9-11 号楼（六人间，上床下桌）
-??? warning "查看图片"
-    ![李苑 9-11 号楼宿舍图片](https://fjnu-oss.nekoark.com/dorm-li9-11.jpg?x-oss-process=style/0zwebp)
-    ![李苑 9-11 号楼宿舍图片2](https://fjnu-oss.nekoark.com/dorm-li9-11-2.jpg?x-oss-process=style/0zwebp)
+        [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/64a082fb000000001303eec5?source=webshare&xhsshare=pc_web&xsec_token=ABQ30spH9gbt1JDKMn42umjdj6JHKaMMjdu-QT6hGGCC0=&xsec_source=pc_share)
+    - 六人间：李苑 9-11 号楼（六人间，上床下桌）
+    ??? warning "查看图片"
+        ![李苑 9-11 号楼宿舍图片](https://fjnu-oss.nekoark.com/dorm-li9-11.jpg?x-oss-process=style/0zwebp)
+        ![李苑 9-11 号楼宿舍图片2](https://fjnu-oss.nekoark.com/dorm-li9-11-2.jpg?x-oss-process=style/0zwebp)
 
-    [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/66cdc305000000001d0184e0?source=webshare&xhsshare=pc_web&xsec_token=ABK0CMq6uiwJOREz4DVdVnWmC1EG83CQarvoMGoCWrWhc=&xsec_source=pc_share)
+        [图片来源 / 小红书链接](https://www.xiaohongshu.com/discovery/item/66cdc305000000001d0184e0?source=webshare&xhsshare=pc_web&xsec_token=ABK0CMq6uiwJOREz4DVdVnWmC1EG83CQarvoMGoCWrWhc=&xsec_source=pc_share)
 
-大一新生大部分住在四改六人间，部分学院可能在六人间。  
-大二时搬至其它宿舍改为四人间，部分学院可能搬到/依然在六人间。  
-硕士研究生同理，区别是研一新生是五个人住四改六人间。  
-博士研究生则是两人住四人间。
+    大一新生大部分住在四改六人间，部分学院可能在六人间。  
+    大二时搬至其它宿舍改为四人间，部分学院可能搬到/依然在六人间。  
+    硕士研究生同理，区别是研一新生是五个人住四改六人间。  
+    博士研究生则是两人住四人间。
 
-住在兰苑（南区）的学院：计算机与网络空间安全学院（软件学院）、体育科学学院、音乐学院、美术学院、社会历史学院、传播学院  
-（特殊地，计网 2023 级居住在桃苑 9-10 号楼，计网 2024 级分散地住在桂苑、桃苑、兰苑）
+    住在兰苑（南区）的学院：计算机与网络空间安全学院（软件学院）、体育科学学院、音乐学院、美术学院、社会历史学院、传播学院  
+    （特殊地，计网 2023 级居住在桃苑 9-10 号楼，计网 2024 级分散地住在桂苑、桃苑、兰苑）
 
-#### 仓山校区
+=== "仓山校区"
 
 宿舍一般一住即四年，不同学院宿舍具体人数规格不同（如文学院既有六人上床下桌桌桌，也有六人上床下桌；外院有四人间）。六人间的宿舍包含上床下桌\* 2 和上床下床\* 2，两张桌子分别分开成三份，空间相对狭窄，需要安装台式电脑的相对不方便。每个人的部分宽度约 60cm，最底下的柜子区域高度为 30cm。  
 南安楼：外院研究生居住，二人间。
